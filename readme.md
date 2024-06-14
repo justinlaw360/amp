@@ -1,3 +1,5 @@
+To fulfill the Personal Data Protection requirements suggested by Hong Kong Persona Data (Privacy) Commission Officer in June 2024, I make reference the current Privacy Management Programme (PMP) to fit the AI technology.
+
 # Overview
 ![image](https://github.com/justinlaw360/amp/assets/4946026/e6155359-96ec-4d05-948f-a7c5a226a514)
 
