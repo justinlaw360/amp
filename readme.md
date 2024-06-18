@@ -1,5 +1,5 @@
 ## AI Management Programme
-To fulfill the Personal Data Protection requirements suggested by Hong Kong Persona Data (Privacy) Commission Officer in June 2024, I make reference the current Privacy Management Programme (PMP) to fit the AI technology.  It aims to provide company a management framework to adpot AI technology in a secure and responsbile way.
+To fulfill the Personal Data Protection requirements suggested by Hong Kong Persona Data (Privacy) Commission Officer in June 2024, I make reference the current Privacy Management Programme (PMP) to fit the AI technology.  It aims to provide company a management framework to adopt AI technology in a secure and responsible way.
 
 # Overview
 ![image](https://github.com/justinlaw360/amp/assets/4946026/e6155359-96ec-4d05-948f-a7c5a226a514)
